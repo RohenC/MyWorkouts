@@ -1,0 +1,43 @@
+body {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    background-image: url("images/try.webp");
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center center;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.container {
+    width: 80%;
+    background-color: #183446;
+    margin-top: 4.5%;
+    padding: 3%;
+    border-radius: 10px;
+    border: 6px dotted #AB81CD;
+    text-align: center;
+}
+
+button {
+    background-color: #cd81cd;
+    color:#183446;
+}
+
+button:hover {
+    color: white;
+}
+
+.btn-xl {
+    font-size: calc(4vw + 2vh);
+    font-weight: bold;
+    border-radius: 10px;
+    width: calc(25vw + 13vh);
+}
+
+.size {
+    width: 60%;
+    display: inline;
+    margin-top: 4%;
+}

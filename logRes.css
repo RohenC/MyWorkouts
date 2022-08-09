@@ -1,0 +1,84 @@
+/* Used by both login and register */
+body {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    background-image: url("images/try.webp");
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center center;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.container {
+    width: 80%;
+    background-color: #183446;
+    margin-top: 4.5%;
+    padding: 3%;
+    border-radius: 10px;
+    border: 6px dotted #AB81CD;
+    margin-bottom: 3%;
+}
+
+.top {
+    margin-top: 8%;
+}
+
+h2 {
+    margin-bottom: 0%;
+}
+
+label {
+    margin-top: 4%;
+}
+
+p {
+    margin-top: 7%;
+    margin-bottom: 0%;
+}
+
+.size {
+    width: 100%;
+}
+
+.wide {
+    width: 100%;
+    border: none;
+    border-radius: 2px;
+    background-color: #AB81CD;
+    color: #183446;
+    padding: 1%;
+}
+
+.redBack {
+    margin-top: 3%;
+}
+
+.redBack2 {
+    margin-top: 1.25%;
+    margin-bottom: 8.5%;
+}
+
+.blueBack {
+    margin-top: 3.25%;
+}
+
+button:hover {
+    color: white;
+}
+
+a {
+    text-decoration:none;
+    color: #183446;
+}
+
+a:hover {
+    text-decoration:none;
+    color: white;
+}
+
+.error {
+    font-size: 150%;
+    text-align: center;
+}

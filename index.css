@@ -1,0 +1,75 @@
+html, body {
+    background-color: #183446;
+    font-family: 'Nunito', sans-serif;
+}
+
+#header {
+    background-image: url("images/darkBack.jpg");
+    text-align: center;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center center;
+    color: white;
+}
+.fancy {
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+#header h1 {
+    font-weight: bold;
+    font-size: calc(100% + 2vw + 0.1vh);
+}
+
+#title {
+    padding-top: 7%;
+}
+
+#header h2 {
+    padding-bottom: 5%;
+    font-size: calc(100% + 1vw + 0.1vh);
+
+}
+
+button {
+    background-color: #183446;
+    color: #cd81cd;
+}
+
+button:hover {
+    color: #E2ADF2;
+}
+
+.btn-xl {
+    font-size: calc(4vw + 2vh);
+    font-weight: bold;
+    border-radius: 10px;
+    width: calc(25vw + 13vh);    
+}
+
+#review-box {
+    width: 80%;
+    border-radius: 10px;
+    border: 6px dotted #AB81CD;
+    margin: auto;
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    padding: 1%;
+    margin-bottom: 3%;
+}
+
+#stars {
+    font-size: 5.5vw;
+    color: yellow;
+    padding-bottom: 2%;
+}
+
+#review-text {
+    font-size: calc(100% + 1vw + 0.1vh);
+    font-family: 'Dancing Script', cursive;
+}
+
+#review-auth {
+    font-family: 'Indie Flower', cursive;
+    padding-left: 40%;
+    padding-top: 2%;
+}

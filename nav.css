@@ -1,0 +1,25 @@
+#color {
+    color: #E2ADF2;
+}
+.fancy {
+    font-family: 'Sedgwick Ave', cursive;
+}
+.col {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #AB81CD;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #E2ADF2;
+}
+
+.navbar-light .navbar-nav .color {
+    color: #AB81CD;
+}
+
+.navbar .navbar-nav .color:hover {
+    color: #E2ADF2;
+}

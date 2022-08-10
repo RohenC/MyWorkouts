@@ -1,6 +1,7 @@
 # MyWorkouts
 
 This is the raw code for the MyWorkouts site. You can view the website [here](https://my-workouts-php.herokuapp.com/) in a much prettier format.
+Feel free to make an account and check out all the features for yourself!
 
 MyWorkouts! is a website that allows users to discover specific exercises based their chosen parameters.
 There are 2 different user permission levels: 
